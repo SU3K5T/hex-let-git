@@ -1,1 +1,1 @@
-Hello, crypto! Who are you?)
+Hello, Hexlet!
